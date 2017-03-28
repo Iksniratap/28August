@@ -1,0 +1,6 @@
+c:\users\patar\onedrive\documents\visual studio 2015\Projects\28August\28August\bin\Debug\28August.exe.config
+c:\users\patar\onedrive\documents\visual studio 2015\Projects\28August\28August\bin\Debug\28August.exe
+c:\users\patar\onedrive\documents\visual studio 2015\Projects\28August\28August\bin\Debug\28August.pdb
+c:\users\patar\onedrive\documents\visual studio 2015\Projects\28August\28August\obj\Debug\28August.csprojResolveAssemblyReference.cache
+c:\users\patar\onedrive\documents\visual studio 2015\Projects\28August\28August\obj\Debug\28August.exe
+c:\users\patar\onedrive\documents\visual studio 2015\Projects\28August\28August\obj\Debug\28August.pdb
